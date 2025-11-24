@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Executables
+scanner
+*.exe
+*.out
+
+# Temporary files
+*~
+*.swp
+.DS_Store
+
+# VS Code
+.vscode/
